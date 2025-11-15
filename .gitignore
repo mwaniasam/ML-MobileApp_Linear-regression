@@ -1,4 +1,4 @@
-# Model files
+# Large duplicate model files (keep best_model.pkl and preprocessors)
 model.pkl
 preprocessors.pkl
 
