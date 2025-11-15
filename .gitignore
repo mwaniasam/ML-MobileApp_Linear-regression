@@ -29,3 +29,54 @@ Thumbs.db
 
 # Dataset (if large)
 *.csv
+
+# Flutter/Dart
+maize_yield_app/.dart_tool/
+maize_yield_app/.flutter-plugins
+maize_yield_app/.flutter-plugins-dependencies
+maize_yield_app/.packages
+maize_yield_app/.pub-cache/
+maize_yield_app/.pub/
+maize_yield_app/build/
+maize_yield_app/.metadata
+maize_yield_app/pubspec.lock
+
+# Android
+maize_yield_app/android/app/*.iml
+maize_yield_app/android/*.iml
+maize_yield_app/android/.gradle
+maize_yield_app/android/captures/
+maize_yield_app/android/gradlew
+maize_yield_app/android/gradlew.bat
+maize_yield_app/android/local.properties
+maize_yield_app/android/key.properties
+maize_yield_app/android/.cxx/
+maize_yield_app/android/app/debug
+maize_yield_app/android/app/profile
+maize_yield_app/android/app/release
+
+# iOS
+maize_yield_app/ios/Flutter/flutter_export_environment.sh
+maize_yield_app/ios/Flutter/Generated.xcconfig
+maize_yield_app/ios/Pods/
+maize_yield_app/ios/Podfile.lock
+maize_yield_app/ios/.symlinks/
+maize_yield_app/ios/Flutter/.last_build_id
+
+# Web
+maize_yield_app/web/
+
+# Windows
+maize_yield_app/windows/flutter/generated_plugin_registrant.cc
+maize_yield_app/windows/flutter/generated_plugin_registrant.h
+maize_yield_app/windows/flutter/generated_plugins.cmake
+
+# Linux
+maize_yield_app/linux/flutter/generated_plugin_registrant.cc
+maize_yield_app/linux/flutter/generated_plugin_registrant.h
+maize_yield_app/linux/flutter/generated_plugins.cmake
+
+# macOS
+maize_yield_app/macos/Flutter/ephemeral/
+maize_yield_app/macos/Flutter/flutter_export_environment.sh
+maize_yield_app/macos/Flutter/GeneratedPluginRegistrant.swift
