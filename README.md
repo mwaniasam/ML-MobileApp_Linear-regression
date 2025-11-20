@@ -4,19 +4,53 @@
 
 Africa's 280 million undernourished people and maize yields 60% below global standards threaten SDG 2 (Zero Hunger). My mission is to empower 50+ million smallholder farmers with technology-driven agricultural practice, enabling data-informed decisions that optimize resources and reduce climate-induced crop failures by 35%, advancing sustainable agricultural growth and food security across the continent.
 
+## 🖁 Mobile App Showcase
+
+<div align="center">
+  
+### Beautiful, Professional Mobile Interface
+
+<table>
+<tr>
+<td width="33%">
+  <img src="screenshots/home_screen.png" alt="Home Screen" width="100%"/>
+  <p align="center"><b>Home Screen</b><br/>Clean welcome interface with app branding</p>
+</td>
+<td width="33%">
+  <img src="screenshots/prediction_form.png" alt="Prediction Form" width="100%"/>
+  <p align="center"><b>Prediction Form</b><br/>Intuitive input fields with validation</p>
+</td>
+<td width="33%">
+  <img src="screenshots/results_screen.png" alt="Results Screen" width="100%"/>
+  <p align="center"><b>Results Screen</b><br/>Clear yield display with visualization</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+  <img src="screenshots/yield_analysis_chart.png" alt="Yield Analysis Chart" width="60%"/>
+  <p align="center"><b>Interactive Yield Analysis</b><br/>Compare your farm's yield against benchmarks</p>
+</td>
+</tr>
+</table>
+
+**Key Features:**
+- 37 Nigerian States Coverage
+- Seasonal Analysis (Wet/Dry)
+- Real-time ML Predictions
+- 📈 Visual Yield Comparisons
+- Modern Material Design 3 UI
+- Professional Green Agricultural Theme
+
+</div>
+
+---
+
 ## Public API Endpoint
 
-**Swagger UI (Live Testing)**: [https://your-app.onrender.com/docs](https://your-app.onrender.com/docs)
+**Swagger UI (Live Testing)**: [https://ml-mobileapp-linear-regression.onrender.com/docs](https://ml-mobileapp-linear-regression.onrender.com/docs)
 
-**Base URL**: `https://your-app.onrender.com`
+**Base URL**: `https://ml-mobileapp-linear-regression.onrender.com`
 
-*Replace with your actual deployed URL after Render deployment*
-
-## Video Demonstration
-
-**YouTube Demo**: [https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/YOUR_VIDEO_ID)
-
-*(5-minute walkthrough of model training, API testing, and mobile app usage)*
 
 ## Mobile App Installation
 
@@ -124,7 +158,7 @@ Random Forest Regressor with 100 estimators
 ### Install Dependencies
 
 ```bash
-# For API deployment
+# API deployment
 cd API
 pip install -r requirements.txt
 ```
@@ -374,12 +408,4 @@ Example error response:
 
 ## License
 
-This project is provided as-is for educational and agricultural planning purposes.
-
-## Contributing
-
-Contributions are welcome! Please ensure:
-- Code follows existing style
-- All endpoints are tested
-- Documentation is updated
-- Model performance is maintained or improved
+This project is provided as-is for educational purposes.
