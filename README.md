@@ -51,6 +51,13 @@ Africa's 280 million undernourished people and maize yields 60% below global sta
 
 **Base URL**: `https://ml-mobileapp-linear-regression.onrender.com`
 
+## Video Demonstration
+
+**YouTube Demo**: [Watch 5-Minute Walkthrough](https://youtu.be/PsY4venVtxM)
+
+*Complete demonstration of model training, API testing with Swagger UI, and mobile app usage on Android device.*
+
+---
 
 ## Mobile App Installation
 
